@@ -28,6 +28,7 @@ Disney worked at the Kansas City Film Ad Company, where he made commercials base
 ![Laugh-O-Gram](http://www.yesterland.com/images-missouri/laughogram_title.jpg)
 <aside class="notes">
 Walt and Harman made a deal with a local Kansas City theater to screen their cartoons, which they called Laugh-O-Grams. The cartoons were hugely popular, and Disney was able to acquire his own studio, upon which he bestowed the same name. Laugh-O-Gram hired a number of employees, including a fellow cartoonist he had previously worked with, Ub Iwerks. They did a series of seven-minute fairy tales that combined both live action and animation, which they called Alice in Cartoonland. By 1923, however, the studio had become burdened with debt, and Disney was forced to declare bankruptcy.
+</aside>
 
 # Disney Brothers' Studio
 
