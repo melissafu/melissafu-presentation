@@ -11,14 +11,16 @@ Walter Elias Disney was an American entrepreneur, animator, voice actor, and fil
 
 # Early Life
 
+![Red Cross](http://d1xgwawrm1fpry.cloudfront.net/wp-content/uploads/2016/12/07160215/31.jpg)
 <aside class="notes">
 Walter Elias "Walt" Disney was born on December 5, 1901, in Chicago. As a kid, he began drawing, painting and selling pictures to neighbors and family friends. When Disney was in high school, he took drawing and photography classes and was a contributing cartoonist for the school paper. At night, he took courses at the Chicago Art Institute. Disney dropped out of school when he was 16 to join the Army but was rejected for being underage. Instead, he joined the Red Cross and was sent to France for a year to drive an ambulance.
 </aside>
 
 # Early Cartoons
 
+![Oswald](http://mbadbkweb.famp-art.com/wp-content/uploads/2011/11/Oswald.jpg)
 <aside class="notes">
-Disney worked at the Kansas City Film Ad Company, where he made commercials based on cutout animation. Around this time, he began experimenting with a camera, doing hand-drawn cel animation, and decided to open his own animation business. From the ad company, he recruited Fred Harman as his first employee.
+Disney worked at the Kansas City Film Ad Company, where he made commercials based on cutout animation. Around this time, he began experimenting with a camera, doing hand-drawn cel animation, and decided to open his own animation business. From the ad company, he recruited Fred Harman as his first employee. Together, they created Alice in Cartoonland, and Oswald the Lucky Rabbit.
 <\aside>
 
 # Laugh-O-Gram
