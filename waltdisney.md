@@ -4,6 +4,7 @@
 
 # Walt Disney
 
+![Walt Disney](https://flavorwire.files.wordpress.com/2015/12/disney1.jpg)
 <aside class="notes">
 Walter Elias Disney was an American entrepreneur, animator, voice actor, and film producer. He co-founded Walt Disney Productions, which became one of the best-known motion-picture production companies in the world. He won 22 Academy Awards during his lifetime, and was the founder of theme parks Disneyland and Walt Disney World.
 </aside>
