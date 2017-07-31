@@ -18,18 +18,18 @@ Walter Elias "Walt" Disney was born on December 5, 1901, in Chicago. As a kid, h
 
 # Early Cartoons
 
-![Oswald](http://mbadbkweb.famp-art.com/wp-content/uploads/2011/11/Oswald.jpg)
 <aside class="notes">
-Disney worked at the Kansas City Film Ad Company, where he made commercials based on cutout animation. Around this time, he began experimenting with a camera, doing hand-drawn cel animation, and decided to open his own animation business. From the ad company, he recruited Fred Harman as his first employee. Together, they created Alice in Cartoonland, and Oswald the Lucky Rabbit.
+Disney worked at the Kansas City Film Ad Company, where he made commercials based on cutout animation. Around this time, he began experimenting with a camera, doing hand-drawn cel animation, and decided to open his own animation business. From the ad company, he recruited Fred Harman as his first employee. 
 <\aside>
 
 # Laugh-O-Gram
 <aside class="notes">
-Walt and Harman made a deal with a local Kansas City theater to screen their cartoons, which they called Laugh-O-Grams. The cartoons were hugely popular, and Disney was able to acquire his own studio, upon which he bestowed the same name. Laugh-O-Gram hired a number of employees, including Harman's brother Hugh and a fellow cartoonist he had previously worked with, Ub Iwerks. They did a series of seven-minute fairy tales that combined both live action and animation, which they called Alice in Cartoonland. By 1923, however, the studio had become burdened with debt, and Disney was forced to declare bankruptcy.
+Walt and Harman made a deal with a local Kansas City theater to screen their cartoons, which they called Laugh-O-Grams. The cartoons were hugely popular, and Disney was able to acquire his own studio, upon which he bestowed the same name. Laugh-O-Gram hired a number of employees, including a fellow cartoonist he had previously worked with, Ub Iwerks. They did a series of seven-minute fairy tales that combined both live action and animation, which they called Alice in Cartoonland. By 1923, however, the studio had become burdened with debt, and Disney was forced to declare bankruptcy.
 </aside>
 
 # Disney Brothers' Studio
 
+![Oswald](http://mbadbkweb.famp-art.com/wp-content/uploads/2011/11/Oswald.jpg)
 <aside class="notes">
 Disney and his brother Roy soon pooled their money and moved to Hollywood. Iwerks also relocated to California, and there the three began the Disney Brothers' Studio. Their first deal was with New York distributor Margaret Winkler, to distribute their Alice cartoons. They also invented a character called Oswald the Lucky Rabbit, and contracted the shorts at $1,500 each.
 </aside>
@@ -37,7 +37,7 @@ Disney and his brother Roy soon pooled their money and moved to Hollywood. Iwerk
 # Mickey Mouse
 
 <aside class="notes">
-A few years later, Disney discovered that Winkler and her husband, Charles Mintz, had stolen the rights to Oswald, along with all of Disney’s animators, except for Iwerks. Right away the Disney brothers, their wives and Iwerks produced three cartoons featuring a new character Walt had been developing called Mickey Mouse. The first animated shorts featuring Mickey were Plane Crazy and The Gallopin' Gaucho, both silent films for which they failed to find distribution. When sound made its way into film, Disney created a third, sound-and-music-equipped short called Steamboat Willie. With Walt as the voice of Mickey, the cartoon was an instant sensation.
+A few years later, Disney discovered that Winkler and her husband, Charles Mintz, had stolen the rights to Oswald, along with all of Disney’s animators, except for Iwerks. Right away the Disney brothers, their wives and Iwerks produced three cartoons featuring a new character Walt had been developing called Mickey Mouse. The first animated shorts were silent films, which failed to find distribution. With Walt as the voice of Mickey, the cartoon was an instant sensation.
 </aside>
 
 # Commercial Success
@@ -56,5 +56,7 @@ Disney's $17 million Disneyland theme park opened on July 17, 1955, in Anaheim, 
 <aside class="notes">
 Within a few years of the opening, Disney began plans for a new theme park and Experimental Prototype Community of Tomorrow in Florida. Disney died while the theme park was still under construction in 1966 due to lung cancer. Following his death, his brother carried on the plans to finish the Florida theme park, which opened in 1971 under the name Walt Disney World.
 </aside>
+
+
 
 
