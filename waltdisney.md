@@ -60,7 +60,7 @@ Disney's $17 million Disneyland theme park opened on July 17, 1955, in Anaheim, 
 
 # Legacy
 
-![Disney World](http://cdn-image.travelandleisure.com/sites/default/files/styles/1600x1000/public/disney-world-secrets1215.jpg?itok=cOQF3rHq)
+![Disney World](https://itsagreatblogafterall.files.wordpress.com/2015/06/walt-disney-world-news1.jpg)
 <aside class="notes">
 Within a few years of the opening, Disney began plans for a new theme park and Experimental Prototype Community of Tomorrow in Florida. Disney died while the theme park was still under construction in 1966 due to lung cancer. Following his death, his brother carried on the plans to finish the Florida theme park, which opened in 1971 under the name Walt Disney World.
 </aside>
