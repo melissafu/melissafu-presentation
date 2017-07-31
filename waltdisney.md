@@ -11,7 +11,7 @@ Walter Elias Disney was an American entrepreneur, animator, voice actor, and fil
 # Early Life
 
 <aside class="notes">
-Walter Elias "Walt" Disney was born on December 5, 1901, in Chicago. He lived most of his childhood in Missouri, where he began drawing, painting and selling pictures to neighbors and family friends. Disney attended high school in Chicago, where he took drawing and photography classes and was a contributing cartoonist for the school paper. At night, he took courses at the Chicago Art Institute. At age 16, Disney dropped out of school to join the Army but was rejected for being underage. Instead, he joined the Red Cross and was sent to France for a year to drive an ambulance.
+Walter Elias "Walt" Disney was born on December 5, 1901, in Chicago. As a kid, he began drawing, painting and selling pictures to neighbors and family friends. When Disney was in high school, he took drawing and photography classes and was a contributing cartoonist for the school paper. At night, he took courses at the Chicago Art Institute. Disney dropped out of school when he was 16 to join the Army but was rejected for being underage. Instead, he joined the Red Cross and was sent to France for a year to drive an ambulance.
 </aside>
 
 # Early Cartoons
@@ -40,8 +40,7 @@ A few years later, Disney discovered that Winkler and her husband, Charles Mintz
 # Commercial Success
 
 <aside class="notes">
-In 1929, Disney created Silly Symphonies, which featured Mickey's newly created friends, including Minnie Mouse, Donald Duck, Goofy and Pluto. On December 21, 1937, Snow White and the Seven Dwarfs, the first full-length animated film, premiered in Los Angeles, producing an unimaginable $1.499 million, in spite of the Depression, and won a total of eight Oscars. During the next five years, Walt Disney Studios completed another string of full-length animated films, Pinocchio (1940), Fantasia (1940), Dumbo (1941) and Bambi (1942). During the mid-1940s, Disney created "packaged features," groups of shorts strung together to run at feature length due to a strike by Disney animators in 1941. By 1950, he was once again focusing on animated features. Cinderella was released in 1950, followed by a live-action film called Treasure Island (1950), Alice in Wonderland (1951), Peter Pan (1953), Lady and the Tramp (1955), Sleeping Beauty (1959) and 101 Dalmatians (1961). In all, more than 100 features were produced by his studio.
-</aside>
+ During the next five years, Walt Disney Studios completed Pinocchio, Fantasia, Dumbo and Bambi.  During the mid-1940s, Disney created "packaged features," groups of shorts strung together to run at feature length due to a strike by Disney animators in 1941. By 1950, he was once again focusing on animated features. Cinderella was released in 1950, followed by a live-action film called Treasure Island, Alice in Wonderland, Peter Pan, Lady and the Tramp, Sleeping Beauty and 101 Dalmatians. In all, more than 100 features were produced by his studio.</aside>
 
 # Disneyland
 
